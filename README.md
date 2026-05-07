@@ -170,13 +170,16 @@ GET  /api/interview/history
 
 
 ## 📊 Dashboard
-_Add analytics dashboard screenshot here_
+<img width="1048" height="695" alt="image" src="https://github.com/user-attachments/assets/48bce1ea-25b0-4c62-ad93-146b6d90c7bd" />
+
 
 ## 📄 Resume Upload
-_Add resume upload screenshot here_
+<img width="1056" height="696" alt="image" src="https://github.com/user-attachments/assets/034324b3-9e57-4466-a5ad-8b2d9ccbada9" />
+
 
 ## 🤖 AI Interview
-_Add AI interview page screenshot here_
+<img width="1047" height="687" alt="image" src="https://github.com/user-attachments/assets/dff259c7-ee22-4604-8b31-49287044e8df" />
+
 
 ---
 
