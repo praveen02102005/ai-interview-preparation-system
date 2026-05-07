@@ -166,7 +166,8 @@ GET  /api/interview/history
 # 🖥️ Screenshots
 
 ## 🏠 Home Page
-_Add project homepage screenshot here_
+<img width="1053" height="696" alt="image" src="https://github.com/user-attachments/assets/7f2b8393-d1d8-4b19-b8d3-ccb64ccff2b5" />
+
 
 ## 📊 Dashboard
 _Add analytics dashboard screenshot here_
