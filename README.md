@@ -198,23 +198,7 @@ _Add AI interview page screenshot here_
 ✅ Secure Authentication  
 ✅ Professional UI Design  
 
----
 
-# 🧪 GitHub Topics
-
-```txt
-react
-nodejs
-mongodb
-express
-openai
-mern-stack
-ai-project
-tailwindcss
-fullstack-project
-interview-system
-resume-analyzer
-```
 
 ---
 
