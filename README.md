@@ -1,45 +1,45 @@
 # 🚀 AI Interview Preparation System
 
-An AI-powered interview preparation platform that helps students and job seekers improve their technical and HR interview performance through intelligent question generation, resume analysis, and AI-based feedback.
+An AI-powered interview preparation platform that helps students and job seekers improve technical and HR interview skills through intelligent question generation, resume analysis, analytics, and personalized feedback.
 
 ---
 
-# 📌 Features
+## 📌 Features
 
-## 👤 Authentication
+### 👤 Authentication
 - User Signup & Login
 - JWT Authentication
 - Secure Password Hashing
 - Protected Routes
 
-## 📄 Resume Analyzer
+### 📄 Resume Analyzer
 - Upload Resume (PDF/DOCX)
-- Extract Skills Automatically
-- Analyze Resume Content
-- ATS Score Prediction
+- Automatic Skill Extraction
+- ATS Score Analysis
+- Resume Evaluation
 
-## 🤖 AI Interview Generator
-- HR Interview Questions
+### 🤖 AI Interview Generator
+- HR Questions
 - Technical Questions
 - Aptitude Questions
-- Skill-Based Question Generation
+- Skill-Based Interview Generation
 
-## 📊 Analytics Dashboard
+### 📊 Analytics Dashboard
 - Performance Tracking
 - Interview History
 - Score Visualization
-- Progress Reports
+- Progress Monitoring
 
-## 🧠 AI Feedback System
+### 🧠 AI Feedback System
 - Answer Evaluation
-- Communication Score
 - Confidence Analysis
+- Communication Scoring
 - Improvement Suggestions
 
-## 📥 Report Generation
-- Download PDF Reports
-- Interview Summary
-- AI Recommendations
+### 📥 PDF Report Generation
+- Download Interview Reports
+- AI Feedback Summary
+- Performance Analytics
 
 ---
 
@@ -81,7 +81,7 @@ ai-interview-prep-system/
 │   │   ├── pages/
 │   │   ├── services/
 │   │   ├── context/
-│   │   ├── App.js
+│   │   ├── App.jsx
 │   │   └── main.jsx
 │
 ├── server/
@@ -95,69 +95,114 @@ ai-interview-prep-system/
 ├── README.md
 ├── package.json
 └── .env
-⚙️ Installation
-Clone Repository
+```
+
+---
+
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash
 git clone https://github.com/yourusername/ai-interview-prep-system.git
-Frontend Setup
+```
+
+## Frontend Setup
+
+```bash
 cd client
 npm install
 npm run dev
-Backend Setup
+```
+
+## Backend Setup
+
+```bash
 cd server
 npm install
 npm run server
-🔑 Environment Variables
+```
 
-Create a .env file inside the server folder.
+---
 
+# 🔑 Environment Variables
+
+Create a `.env` file inside the server folder.
+
+```env
 PORT=5000
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 OPENAI_API_KEY=your_api_key
-📡 API Routes
-Authentication
+```
+
+---
+
+# 📡 API Routes
+
+## Authentication
+
+```bash
 POST /api/auth/register
 POST /api/auth/login
-Resume
+```
+
+## Resume
+
+```bash
 POST /api/resume/upload
-Interview
+```
+
+## Interview
+
+```bash
 POST /api/interview/generate
 POST /api/interview/submit
 GET  /api/interview/history
-🖥️ Screenshots
-Home Page
+```
 
-Add your project homepage screenshot here.
+---
 
-Dashboard
+# 🖥️ Screenshots
 
-Add analytics dashboard screenshot here.
+## 🏠 Home Page
+_Add project homepage screenshot here_
 
-Resume Upload
+## 📊 Dashboard
+_Add analytics dashboard screenshot here_
 
-Add resume analyzer screenshot here.
+## 📄 Resume Upload
+_Add resume upload screenshot here_
 
-AI Interview
+## 🤖 AI Interview
+_Add AI interview page screenshot here_
 
-Add AI-generated interview questions screenshot here.
+---
 
-🌟 Future Enhancements
-🎤 Voice-Based Interviews
-🤖 AI Avatar Interviewer
-📹 Video Interview Analysis
-🧾 Advanced ATS Optimization
-🌍 Multi-Language Support
-📱 Mobile App Version
-📈 Project Highlights
+# 🌟 Future Enhancements
 
-✅ Full Stack MERN Application
-✅ AI-Powered Features
-✅ Resume Parsing System
-✅ Analytics Dashboard
-✅ Secure Authentication
-✅ Professional UI Design
+- 🎤 Voice-Based Interviews
+- 🤖 AI Avatar Interviewer
+- 📹 Video Interview Analysis
+- 🌍 Multi-Language Support
+- 📱 Mobile App Version
 
-🧪 Tech Topics
+---
+
+# 📈 Project Highlights
+
+✅ Full Stack MERN Application  
+✅ AI-Powered Features  
+✅ Resume Parsing System  
+✅ Analytics Dashboard  
+✅ Secure Authentication  
+✅ Professional UI Design  
+
+---
+
+# 🧪 GitHub Topics
+
+```txt
 react
 nodejs
 mongodb
@@ -169,16 +214,25 @@ tailwindcss
 fullstack-project
 interview-system
 resume-analyzer
-👨‍💻 Author
-Praveen
+```
 
-B.Tech Artificial Intelligence and Data Science Student
-Frontend Developer | AI Enthusiast | MERN Stack Learner
+---
 
-📜 License
+# 👨‍💻 Author
+
+## Praveen
+
+B.Tech Artificial Intelligence and Data Science Student  
+Frontend Developer | AI Enthusiast | MERN Stack Developer
+
+---
+
+# 📜 License
 
 This project is licensed under the MIT License.
 
-⭐ Support
+---
+
+# ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
